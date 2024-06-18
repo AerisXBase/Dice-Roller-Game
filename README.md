@@ -6,7 +6,7 @@ The Dice Roller Game is a simple web application that allows users to roll a spe
 This project was built using JavaScript for functionality, HTML for structure, and CSS for styling.
 
 ## How it looks
-![Screenshot](https://github.com/AerisXBase/Dice-Roller-Game/assets/129667439/106f651a-94f3-4298-9271-27cfddfb6ced)
+![Screenshot](https://github.com/AerisXBase/Dice-Roller-Game/assets/129667439/3b94afac-dae4-4be9-9a32-156f2b63b5d2)
 
 ## Features
 Roll any number of dice with a specified number of sides.
